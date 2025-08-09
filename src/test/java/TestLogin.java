@@ -7,4 +7,9 @@ public class TestLogin
    {
        System.out.println("Admins login successfully 1...!");
    }
+
+    public void testAdminLoginFlow3()
+    {
+        System.out.println("Developer login successfully 1...!");
+    }
 }
