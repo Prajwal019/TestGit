@@ -7,4 +7,10 @@ public class TestLogin
    {
        System.out.println("admin login success...!");
    }
+
+    @Test
+    public void testAdminLoginFlow2()
+    {
+        System.out.println("Read-only login successfully...!");
+    }
 }
