@@ -5,6 +5,6 @@ public class TestLogin
    @Test
     public void testAdminLoginFlow()
    {
-       System.out.println("Admin login successfully...!");
+       System.out.println("Admin login successfully 1...!");
    }
 }
